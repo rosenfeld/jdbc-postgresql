@@ -1,6 +1,6 @@
-# Jdbc::Postgresql
+# gem wrapping official Postgresql JDBC4 driver
 
-TODO: Write a gem description
+An alternative to jdbc-postgres gem with support for PostgreSQL 9.2.
 
 ## Installation
 
@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Not required when adding it to Gemfile:
+
+    require 'jdbc-postgresql'
 
 ## Contributing
 
